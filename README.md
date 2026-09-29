@@ -2,7 +2,7 @@
 # Project Supervisor: Dr.K.Sreeram Murthy
 # Team Members:
 1. **Muddana Raghuram Chowdary** - ECE - 2620040111
-2. **Kanapuram Deeksha Reddy** - CSIT - 2620090129
+2. **Kanapuram Deeksha Reddy** - CSIT - 2620090126
 # Project Abstract:
 # Restaurant Kitchen Order & Billing System
 
