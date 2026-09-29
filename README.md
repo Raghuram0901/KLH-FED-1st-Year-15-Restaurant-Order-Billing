@@ -25,6 +25,26 @@
 9. **User-Friendly Design** – Provides a simple and easy-to-use system that improves communication between restaurant staff and the kitchen.
 
 10. **Project Objective** – Aims to automate routine restaurant activities while providing students with practical experience in applying Java programming to real-world problems.
+11. # week1 Deeksha:
+        Scanner sc = new Scanner(System.in);
+
+    int choice, quantity;
+    double total = 0;
+
+    System.out.println("===== INDIAN RESTAURANT MENU =====");
+    System.out.println("1. Idli       - Rs. 30");
+    System.out.println("2. Dosa       - Rs. 50");
+    System.out.println("3. Poori      - Rs. 40");
+    System.out.println("4. Samosa     - Rs. 20");
+    System.out.println("5. Veg Biryani- Rs. 120");
+    System.out.println("6. Chicken Biryani - Rs. 180");
+    System.out.println("7. Paneer Curry - Rs. 150");
+    System.out.println("8. Roti       - Rs. 15");
+    System.out.println("9. Tea        - Rs. 15");
+    System.out.println("10. Coffee    - Rs. 25");
+
+    System.out.println("\nEnter 0 to finish ordering.");
+
 # Week 1 Raghuram:
 
 
